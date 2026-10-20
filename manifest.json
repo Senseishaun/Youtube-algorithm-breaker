@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Algorithm Breaker",
+  "version": "1.0",
+  "description": "Escape your YouTube algorithm with random topics and wildcard searches.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
